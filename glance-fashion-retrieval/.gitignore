@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+indexer/db/
+eval/results/
+data/raw/
+test

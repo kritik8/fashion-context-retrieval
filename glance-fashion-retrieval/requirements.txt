@@ -1,0 +1,9 @@
+torch
+transformers
+chromadb
+scikit-learn
+pillow
+requests
+numpy
+tqdm
+tabulate
